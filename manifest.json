@@ -1,0 +1,32 @@
+{
+  "short_name": "PWA Demo App",
+  "name": "Made with ReactJS and vite",
+  "description": "description",
+  "prefer_related_applications": false,
+  "related_applications": [],
+  "start_url": "/pwademo/#/home",
+  "scope": "/pwademo/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "logo32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ],
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
